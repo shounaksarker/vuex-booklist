@@ -1,4 +1,4 @@
-# [vuex-booklist] [https://vuex-booklist.vercel.app/]
+# [vuex-booklist] (https://vuex-booklist.vercel.app/)
 A simple Vue.js application for managing a list of books, allowing users to add, view, edit, and delete books. Built with Vite, Vue.js, Tailwind CSS, and Vuex.
 
 ## Features
