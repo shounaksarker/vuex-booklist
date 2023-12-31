@@ -1,14 +1,24 @@
-# vuex-practice
+# vuex-booklist
+A simple Vue.js application for managing a list of books, allowing users to add, view, edit, and delete books. Built with Vite, Vue.js, Tailwind CSS, and Vuex.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Features
 
-## Recommended IDE Setup
+- **Add Book:** Users can add a new book to their list.
+- **View Books:** Users can view their list of books.
+- **Edit Book:** Users can edit the name of a book in their list.
+- **Delete Book:** Users can delete a book from their list.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Dependencies
+- Vite
+- Vue.js
+- Tailwind CSS
+- Vuex
 
-## Customize configuration
+## Prerequisites
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- [Node.js](https://nodejs.org/) (v14.0.0 or later)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) package manager
+
 
 ## Project Setup
 
